@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-1293c348bc91afabbdf8076e8e307c27a517a6cc.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/crm/bottom-sheet-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e1036f71cfd78f6c55cc27f206478c83830f76d0">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-a1adae47011c48eac7239c45ff5ff6dc20ec4c43.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-605cdaa3b19ffc791ff5fddd13fcf8cb85942a4b.jar" />
+    </item>
+    <item
+        jar="/Applications/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-824d6ed637d9ba577e046e4ae5917d53001f477a.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-f408aa1054bc0aa47dec152c3353c6c1b7ea496c.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-420e8d52b347db0946005b4fb90d1e6b1c876233.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-10b176693530c5f82a2661f95c7b4a2c8e27a774.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f4fb7e9bfa62b730b8587c30cc1e175bf8cba3df.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-5c983d2dfdd56f6b0a3f5c296a270ebdca0e8a3c.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/crm/odoo-rpc-v2/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bc4b9d67a5f2ed0b2392f0b3bf268e31b41782a5">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-79bed247de4993894a09a6a722964b2aa39a77e2.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-c460017cb7f0500fbfd94cd91df24ad6e4f71294.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/crm/parallax-effect-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d5d51df78c3099a605c78513a2868cf87fae2849">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-6cdc30945ea3a8d1e600f8ee96b1fb0d4bc5e0aa.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-85ab97b564a779a15990d7ceecc95f64013ec3cd.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-faee3dad1ef2ea733f13a9cf4600cae90d97e037.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/crm/calendar-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="645d15032962e5f8294e9cad5b5cc81ae35af96d">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-fcfb06d97cae35a57a143f7c97b051efac79e51e.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-2b2e876cab1256d82d4932f8d1b60589e4d8536e.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-9745794ab4e13a7be398000ba79fc7857e00867e.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/crm/intro-slider-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="897dd7594b5522b0d8322598baad9df3a5b45e21">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-e4b5370a285e7f3fe3691af02d87e60757e2936f.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/libs/swipe_library.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56650729f9650e4d5d59267ddb840dfc3aaf4ff9">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/swipe_library-6a6e59f6378e430c8ee37bb409cc732eedf62b29.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-236a5f3adaf2c33807fb1f304371fc4df2957fcc.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-b4d9ef7f34f83aff1a47d964b50c969d6732327a.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-56b47efe62b17e189c63e22ccaf84fecad3e0568.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-40ba09627422fabc2018985ed65148f72cbaa477.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-b962863c03c8e535e6b8642309d37b837f66e7ad.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-c343f490cf019d526b368e4450a4273f9ac4fd3d.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-a5ce8b12ba2112f7b9c9b306c5c2b637e4cc04b9.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/crm/odoo-rpc-v2/unspecified/libs/core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3c7e89b5124329cddba83bcf7c26c1c636c16b8">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/core-57c3c6dc297ffca63e380a275ad4629bf5d3d4d7.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-672aed968f4589703eecbdaf90e400ea687b68a3.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-48b6a57d3306f633279c0a86d8f2256f72d10e41.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-f801bcc8c216d4440a14dea472af15de49b22494.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-f1a47604d3502a8e522b4e21d88d7bf0e5b8b68c.jar" />
+    </item>
+    <item
+        jar="/Users/whn13/Documents/workspace/crm/app/build/intermediates/exploded-aar/crm/snackbar-lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="544575e8c746b07c7c4cfdb0950708ea1d543be1">
+        <dex dex="/Users/whn13/Documents/workspace/crm/app/build/intermediates/pre-dexed/debug/classes-90b5236177f0e82f19b87c31ecb29c405c63eee5.jar" />
+    </item>
+
+</items>
